@@ -27,5 +27,5 @@ Ce projet vise à prédire le churn (départ) des clients d'une entreprise en ut
 
 ### 1. Cloner le repository
 ```bash
-git clone https://github.com/votre-username/churn-prediction-ml.git
+git clone https://github.com/Mojytgf/churn-prediction-ml.git
 cd churn-prediction-ml
