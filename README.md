@@ -20,12 +20,14 @@ Ce projet vise à prédire le **churn client** (départ des clients) en utilisan
 
 **Meilleur modèle :** 🏆 XGBoost
 
-## 🗂 Structure du Projet
+## 🗂 Structure du projet
 
+```text
 churn-prediction-ml/
-├── 📄 codeSource.py # Script principal Python
-├── 📓 codeSource.ipynb # Notebook Jupyter interactif
-├── 📋 rapport.pdf # Rapport détaillé du projet
-├── 📊 churn_dataset.csv # Jeu de données clients
-├── 📝 README.md # Ce fichier
-└── ⚙️ requirements.txt # Dépendances Python
+├── 📄 codeSource.py         # Script principal Python
+├── 📓 codeSource.ipynb      # Notebook Jupyter interactif
+├── 📋 rapport.pdf           # Rapport détaillé du projet
+├── 📊 churn_dataset.csv     # Jeu de données clients
+├── 📝 README.md             # Ce fichier
+└── ⚙️ requirements.txt      # Dépendances Python
+
